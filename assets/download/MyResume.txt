@@ -1,0 +1,96 @@
+NIKITA DNYANESHWAR PATIL
+(Full Stack Java Developer)
+Address- A-702, Sai Luxuria, Rahatani, Pune , Maharashtra – 411017
+9405856482 | nikitapatil210402@gmail.com
+LinkedIn - linkedin.com/in/nikita-patil-4659b5246
+GitHub - https://github.com/nikitapatil210402
+
+SUMMARY
+To work in a progressive organization, where I can enhance my skills and explore new creative ideas in
+order to contribute to success of the organization
+
+EDUCATION
+
+Bachelor of Technology, R C Patel Institute of Technology, Shirpur
+Computer Engineering CGPA: 7.34
+
+2024
+
+Class XII, R. C. Patel Arts & Science Junior College, Shirpur
+Percentage: 82.31
+
+2020
+
+Class X, H. R. Patel Secondary School, Shirpur
+Percentage: 87.40
+
+2018
+
+PROJECTS
+• Fee Receipt Generator
+Technology – Java, Apache POI, SQL In this project we created a Java application in which user
+will provide the input for fees payment. Then that will be stored in SQL database, when we click
+on generate receipt it will create a word file as well as PDF copy of the receipt which can be
+printed or sent through mail. And will also generate Excel sheet with all student data and fee
+details.
+• Mental Health and Well-being Surveillance, Assessment, and Tracking Solution among
+Children
+In this project, we created a Website. The project likely focuses on developing tools or systems
+to monitor, assess, and track the mental health of children, aiming to enhance overall well-being.
+The specifics would depend on the project's goals, methodologies, and the technology used. In
+this we used Html, CSS, React, Node Js, MongoDB. We created in VS Code
+• Employee Management System
+Technology – Java, SQL
+In this project we created a Swing application where Employee Details will be managed.
+User can create new employee details, update the older ones or even delete it if not in use.
+Basic CRUD operations can be performed on Employee data.
+
+TRAINING
+•
+
+She Arise 2.0
+6 - Months
+I participated in She Arise 2.0 Training which is conducted by Capgemini and executed by Centum
+Foundation. In this training I got to learn Core Java, JDBC, Hibernate, Mysql, Spring boot. In this
+training I work in ATM System Project .
+
+SKILLS
+•
+•
+•
+•
+•
+•
+•
+•
+
+Languages: C,C++, Java, SQL, JavaScript, HTML, CSS,
+Framework: JDBC, Hibernate, Spring Boot
+Version Control: Proficient in using Git/GitHub and Command Line Interface(CLI)
+Methodologies: Knowledge of Agile and Scrum methodologies for project management
+Tool: MySQL, GitHub, Excel, PowerPoint.
+Platforms: Visual Studio Code, Eclipse, Git Bash, NetBeans .
+Soft Skills: Collaboration and teamwork, Growth Mindset, Detail-oriented, Persistence.
+
+ADDITIONAL SKILLS & CERTIFICATIONS
+•
+•
+•
+•
+•
+•
+•
+
+C and CPP programming language by Nextech Infosystems
+Junior Java Full Stack Development training offered by Generation India and Vinsys IT Service
+Learn Java Course (Codecademy)
+Code foundation Skill Path (Codecademy) | Learn Git and GitHub (Codecademy)
+Campus Credentials
+She Airse 2.0 Training
+Great Learning
+
+DECLARATION
+"I, Nikita Dnyaneshwar Patil, confirm that the information provided is true, complete, and
+correct. I acknowledge responsibility for any unintentional errors or omissions."
+
+
